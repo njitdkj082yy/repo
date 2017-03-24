@@ -3,7 +3,8 @@
 ## repo default configuration
 ##
 from __future__ import print_function
-REPO_URL = 'https://gerrit.googlesource.com/git-repo'
+#REPO_URL = 'https://gerrit.googlesource.com/git-repo'
+REPO_URL = 'https://github.com/njitdkj082yy/repo.git'
 REPO_REV = 'stable'
 
 # Copyright (C) 2008 Google Inc.
